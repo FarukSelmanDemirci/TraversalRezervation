@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TraversalRezervation", "TraversalRezervation\TraversalRezervation.csproj", "{05A93224-E887-4E6C-88C4-60A158644FAD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TraversalRezervation", "TraversalRezervation\TraversalRezervation.csproj", "{05A93224-E887-4E6C-88C4-60A158644FAD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Business", "D:\fırat üni\yazılım proje\TraversalReservationMiniCoreProject-master\Business\Business.csproj", "{87E12907-F9D5-47CF-AE41-09DB8287A855}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{05A93224-E887-4E6C-88C4-60A158644FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05A93224-E887-4E6C-88C4-60A158644FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05A93224-E887-4E6C-88C4-60A158644FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87E12907-F9D5-47CF-AE41-09DB8287A855}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87E12907-F9D5-47CF-AE41-09DB8287A855}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87E12907-F9D5-47CF-AE41-09DB8287A855}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87E12907-F9D5-47CF-AE41-09DB8287A855}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
