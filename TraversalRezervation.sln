@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DTO", "D:\fırat üni\yazı
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Entity", "D:\fırat üni\yazılım proje\TraversalReservationMiniCoreProject-master\Entity\Entity.csproj", "{84670150-C9E5-48DD-AA70-38F6DB710DA1}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SignalRApi", "D:\fırat üni\yazılım proje\TraversalReservationMiniCoreProject-master\SignalRApi\SignalRApi.csproj", "{F3022694-F77F-49D0-A514-342E5C779C15}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{84670150-C9E5-48DD-AA70-38F6DB710DA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84670150-C9E5-48DD-AA70-38F6DB710DA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84670150-C9E5-48DD-AA70-38F6DB710DA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3022694-F77F-49D0-A514-342E5C779C15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3022694-F77F-49D0-A514-342E5C779C15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3022694-F77F-49D0-A514-342E5C779C15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3022694-F77F-49D0-A514-342E5C779C15}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
